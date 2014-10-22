@@ -1,9 +1,11 @@
 [Desktop Entry]
 Categories=System;
 Comment=Manager for LightDM
+Comment[es]=Administrador de LightDM
 Exec=lightdm-manager
 Icon=lightdm-manager
 Name=LightDM Manager
+Name[es]=Administrador de LightDM
 StartupNotify=true
 Terminal=false
 Type=Application
